@@ -1,2 +1,2 @@
-https://cdn.jsdelivr.net/gh/Squall-cc/apps@main/synapse/index.html - games
-https://cdn.jsdelivr.net/gh/Squall-cc/apps@main/files/index.html - file explorer
+https://cdn.jsdelivr.net/gh/Squall-cc/apps@main/synapse/index.html -games
+https://cdn.jsdelivr.net/gh/Squall-cc/apps@main/files/index.html -file explorer
